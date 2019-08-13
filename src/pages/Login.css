@@ -7,7 +7,7 @@
 
 .login-container form {
     width: 100%;
-    max-width: 300%;
+    max-width: 300px;
     display: flex;
     flex-direction: column;
 }
